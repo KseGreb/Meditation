@@ -7,7 +7,7 @@
 <p>Just close your eyes and enjoy the selected sounds.</p>
 
   <p>
- <a href="[https://lacy-aeolian-smash.glitch.me]">View Demo Here</a>
+ <a href="https://lacy-aeolian-smash.glitch.me">View Demo Here</a>
   </p>
 
 ## Built With
